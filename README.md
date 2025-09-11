@@ -81,7 +81,7 @@ data-warehouse-project/
 
 ## ☕ Stay Connected
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me.
 
 ---
 
